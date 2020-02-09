@@ -1,0 +1,15 @@
+1-msmc2.4species.input.sh
+Shell script to generate the input file format for msmc 
+
+2-msmc2.4species.run.sh
+Script for running msmc on different combinations of haplotypes
+
+3-msmc2.4species.submit.sh
+Because there are many individual configurations and we use this script to submit these jobs respectively
+
+4-msmc2.4species.results_merge.sh
+Script to merging the msmc results for different haplotype configuration
+
+5-msmc2.plot.R
+Use R to plot the msmc results for the four Populus species
+
