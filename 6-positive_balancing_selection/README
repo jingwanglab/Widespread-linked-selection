@@ -1,0 +1,20 @@
+1-xpclr_convert_rho_to_cM.R
+Use R script to convert recombination rate estimates from Ldhelmet to centi-Morgan (cM) for P.tremula
+
+1-interpolate_map_to_snp.R
+Use R script to interpolate genetic distance between adjacent SNPs according to the centimorgan values
+
+1-xpclr.aspen_species.rec_cM.sh
+pipeline to run XPCLR
+
+1-Figure5.R
+R script to plot the Figure5
+
+1-manhanttan_plot.R
+Function to make the manhanttan plot
+
+2-betascan.sh
+Script to run BetaScan analysis
+
+2-Figure6.R
+R script to plot the Figure6
