@@ -1,0 +1,20 @@
+1-twisst.ABBABABA.sh
+Use twisst and ABBABABA to perform topology weighting and gene flow analysis (D statistics and fd)
+
+2-ILS.allele_freq.sh
+Calculate incomplete lineage sorting (ILS) from allele frequencies of the four species
+
+3-ILS_gene.sh
+Use script to calculate the distance to genes, exons and coding sequences and make the output files
+
+3-vcf2bed.awk
+Awk script to transfer the vcf file into bed file format
+
+4-ILS.R
+Use R script to estimate the level of incomplete linage sorting and plot the level of ILS with increasing distance of coding density
+
+5-Figure3_FigureS10S11.R
+Use R script to plot Figure3 and Figure S10 and Figure S11
+
+6-angsd_abbababa2.sh
+Use the abbababa2 option in ANGSD to perform the D statistics
