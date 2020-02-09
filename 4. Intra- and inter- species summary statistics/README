@@ -1,0 +1,44 @@
+1-angsd_SFS_davidiana.sh
+Use ANGSD to estimate the genetic diversity at each site of P. davidiana
+
+1-angsd_SFS_tremula.sh
+Use ANGSD to estimate the genetic diversity at each site of P. tremula
+
+1-angsd_SFS_tremuloides.sh
+Use ANGSD to estimate the genetic diversity at each site of P. tremuloides
+
+1-angsd_SFS_trichocarpa.sh
+Use ANGSD to estimate the genetic diversity at each site of P. trichocarpa
+
+2-thetas_table.R
+Use R to summarize the genetic diversity along the windows
+
+3-angsd_FST.6species_pair.sh
+Use ANGSD to estimate genetic divergence, Fst, at each site between pairs of species
+
+4-angsd_dxy.6species_pair.sh
+Use ANGSD to estimate genetic divergence, dxy, at each site between pairs of species
+
+5-angsd_fst_stat_win.noChr.R
+Use R to summarize the genetic divergence (Fst and dxy) along the windows
+
+5-fst.dxy.6species_pair.sh
+Script to summarize the fst and dxy estimates from ANGSD to 10Kbp and 100Kbp non-overlapping windows
+
+6-ldhelmet.4species.sh
+Use Ldhelmet to estimate the population-scaled recombination rate of the four species
+
+6-ldhelmet.window.summary.R
+Use R to summarize the population-scaled recombination rate from Ldhelmet into windows
+
+7-diversity_divergence_rho.4species.10kb.R
+Summary analysis of genetic diversity, divergence and population-scaled recombination rate in 10kbp windows
+
+7-Figure2_diversity_divergence_rho.4species.100kb.R
+Summary analysis of genetic diversity, divergence and population-scaled recombination rate in 100kbp windows and also include scripts for plotting Figure 2
+
+8-linked_selection.correlation.R
+Use R to integrate the analysis of genetic diversity, divergence, recombination rate, coding density, incomplete lineage sorting, phylogenetic topologies and introgression proportion (fd)
+
+9-Figure4.R
+Use R script to make analysis and plot the figure4
