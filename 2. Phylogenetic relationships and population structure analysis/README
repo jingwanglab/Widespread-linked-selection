@@ -1,0 +1,23 @@
+1-UnifiedGenotyper.chloroplast.sh
+Use UnifiedGenotyper of GATK to call chloroplast SNPs
+
+2-chloroplast_vcf_filtering.sh
+Use a set of VCFtools commands to filter chloroplast SNPs
+
+3-SNPhylo-chloroplast.sh
+Use SNPhylo to construct a consensus tree based on chloroplast SNPs
+
+4-SNPhylo-chloroplast.tree.R
+Use R to plot the chloroplast phylogenetic tree
+
+5-angsd_PCA.4species.sh
+Use ANGSD to perform principal component analysis
+
+6-pca.plot.R
+Use R to plot PCA results
+
+7-beagle_phasing.sh
+Use BEAGLE to impute and phase SNPs and perform identity-by-descent block analysis
+
+8-beagle_ibd.plot.R
+Use R to plot the IBD and haplotype sharing between individuals of species
