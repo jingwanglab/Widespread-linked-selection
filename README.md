@@ -1,5 +1,5 @@
 # Widespread-linked-selection
-Scripts for Wang et al (2020) Evidence for widespread selection in shaping the genomic landscape during speciation of Populus. Under Review
+Scripts for Wang et al (2020) Evidence for widespread selection in shaping the genomic landscape during speciation of Populus. Molecular Ecology, accepted
 
 <h2>Documentation of Scripts</h2>
 
